@@ -83,3 +83,4 @@ streamlit run main.py --client.showErrorDetails=false
 - Improved UI with custom styling
 - Added performance metric tracking
 
+
